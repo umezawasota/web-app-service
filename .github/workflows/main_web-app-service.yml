@@ -62,4 +62,5 @@ jobs:
           app-name: 'web-app-service'
           slot-name: 'Production'
           package: .
+          clean: true
           
